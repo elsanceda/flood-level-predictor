@@ -1,7 +1,7 @@
 # Flood Level Predictor
 This is a course requirement for the CS180 Artificial Intelligence Course of the Department of Computer Science, College of Engineering, University of the Philippines, Diliman under the guidance of Carlo Raquel for AY 2022-2023.
 
-This is a Multilayer Perceptron model trained to predict the flood level in Metro Manila given the latitude, longitude, elevation, and precipitation rate. The flood level is predicted as one of the following categories:
+This is a Multilayer Perceptron model trained to predict the flood level in Metro Manila given the latitude, longitude, elevation, and precipitation rate. The flood level is predicted as one of the following categories defined in the dataset:
 
 * 0 - No flood
 * 1 - Ankle High
